@@ -1,20 +1,28 @@
-# curso-javascript-projetos
-Este repositório reúne alguns mini-projetos desenvolvidos durante e após o curso de JavaScript.
+# 🧮 Analisador de Números
 
-Objetivos
-- Consolidar a base em **JavaScript**.  
-- Explorar manipulação de DOM, eventos, estruturas de repetição e funções.  
-- Criar projetos pequenos, mas funcionais, que podem servir como base para aplicações maiores.
+Projeto desenvolvido durante meus estudos de **JavaScript** no Curso em Vídeo.
 
-Tecnologias usadas
-- [x] HTML5  
-- [x] CSS3  
-- [x] JavaScript (ES6+)
+## 🚀 Funcionalidades
+- Adiciona números entre 1 e 100
+- Impede valores duplicados
+- Exibe quantidade total, maior, menor, soma e média dos números inseridos
 
-Projetos
+## 🛠 Tecnologias utilizadas
+- HTML5  
+- CSS3  
+- JavaScript (DOM, arrays e lógica de programação)
 
-O que aprendi
-- Manipular elementos HTML via **DOM**.  
-- Usar **funções** e **eventos** para interatividade.  
-- Aplicar lógica de programação em projetos práticos.  
-- Criar pequenos sistemas que podem ser melhorados e escalados.  
+## 💻 Como executar
+1. Baixe o projeto ou clone o repositório  
+2. Abra o arquivo **ex018.html** no navegador  
+
+## 👨‍💻 Autor
+Will — estudante de TI e entusiasta em desenvolvimento web  
+
+analisador-de-numeros/
+│
+├── ex018.html       ← página principal (abre no navegador)
+├── ex018.js         ← código JavaScript do projeto
+├── estilo.css       ← arquivo de estilos
+└── ambiente.js      ← script extra (teste com array, opcional)
+
